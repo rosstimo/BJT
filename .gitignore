@@ -26,7 +26,7 @@ fp-info-cache
 *.csv
 
 #windwos junk
-*desktop.ini
+*.ini
 
 #other
 schem/S2020*
